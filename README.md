@@ -1,2 +1,1 @@
-# naiveMedicalLeavePython
-just to test the project
+Medical leaves are often used by students when they are sick or having any medical emergency. But it is seen that students are taking advantage of this system to get extra leaves from their university by providing fake medical leaves. We are proposing a system that will not only stop this fake medical certificates but also automate the whole process. Doctor's identity is verified and then the cryptographic hash will be generated as medical leave. University can verify it on their side by providing essential details.
