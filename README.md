@@ -1,2 +1,2 @@
 # naiveMedicalLeavePython
-just for storing the core concept of major project
+just to test the project
